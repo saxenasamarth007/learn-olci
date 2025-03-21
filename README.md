@@ -32,7 +32,7 @@ This software and all associated intellectual property rights (IPRs) are owned b
 
 This code is licensed under an MIT license. See file LICENSE.txt for details on 
 the usage and distribution terms. No dependencies are distributed as part of this 
-package. Copyright 2024 European Union.
+package. Copyright 2025 European Union.
 
 All product names, logos, and brands are property of their respective owners. 
 All company, product and service names used in this website are for identification 
